@@ -1,8 +1,8 @@
 # Dungeon-Crawler
-Simple game in C programming based on puzzles and adventure games
+Dungeo Crawler is a simple game in C programming based on puzzles and adventure games.
 
-# Objetivos
-Trabalho da faculdade porem sujeito a melhorias e aperfeiçoamentos
+# Objectives
+The main objective of this game is to Learn more about C programming and put my knowledge in pratice with code.
 
 # Dificuldades até entao
 Fazer a movimentação do caractere
